@@ -1,4 +1,4 @@
-# Deep Q Network AI Flappy Bird Project
+# Deep Q Network AI Flappy Bird Game
 
 ## Overview
 
